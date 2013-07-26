@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExynosRoot</string>
+    <string name="text_exynos">Push the button to see how root is gained on your device.</string>
+    <string name="button_root">Get Root!</string>
+    <string name="button_wlan_pass">Read Wlan pass</string>
+    <string name="button_data">Read /data directory</string>
+    <string name="text_uid">User ID:</string>
+    <string name="text_root">You are now root.</string>
+    <string name="text_data">The content of /data:\n</string>
+    <string name="text_no_root">Seems like you are not root.</string>
+
+</resources>
