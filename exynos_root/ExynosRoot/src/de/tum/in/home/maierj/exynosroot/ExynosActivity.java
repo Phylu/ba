@@ -1,4 +1,4 @@
-package de.phynformatik.exynosroot;
+package de.tum.in.home.maierj.exynosroot;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -41,11 +41,11 @@
 #define PAGE_OFFSET 0xC0000000
 #define PHYS_OFFSET 0x40000000
 
-jint Java_de_phynformatik_exynosroot_ExynosActivity_getUid(JNIEnv* env, jobject thiz) {
+jint Java_de_tum_in_home_maierj_exynosroot_ExynosActivity_getUid(JNIEnv* env, jobject thiz) {
 	return getuid();
 }
 
-jint Java_de_phynformatik_exynosroot_ExynosActivity_getRoot(JNIEnv* env, jobject thiz) {
+jint Java_de_tum_in_home_maierj_exynosroot_ExynosActivity_getRoot(JNIEnv* env, jobject thiz) {
 	int fd, i, m, index, result;
 
 	unsigned long *paddr = NULL;
