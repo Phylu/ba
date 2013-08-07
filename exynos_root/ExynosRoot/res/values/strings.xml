@@ -10,5 +10,6 @@
     <string name="text_root">You are now root.</string>
     <string name="text_data">The content of /data:\n</string>
     <string name="text_no_root">Seems like you are not root.</string>
+    <string name="text_no_elevation">Cannot elevate permissions to root.</string>
 
 </resources>

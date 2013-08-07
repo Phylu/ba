@@ -57,7 +57,7 @@ public class ExynosActivity extends Activity {
 				updateUid();
 			} else {
 				Toast.makeText(getApplicationContext(),
-						getResources().getText(R.string.text_no_root),
+						getResources().getText(R.string.text_no_elevation),
 						Toast.LENGTH_LONG).show();
 			}
 			
